@@ -1,1 +1,1 @@
-module github.com/wancsc/jsontime
+module github.com/freezeChen/jsontime
